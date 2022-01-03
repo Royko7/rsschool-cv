@@ -6,26 +6,77 @@
           content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <title>CV#2. HTML, CSS & Git Basics</title>
 </head>
 <body>
 <header>
-    <nav>
-
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">Yurii Royko</a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav"
+                aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Contacts<span class="sr-only">(current)</span></a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">About</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Skills</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#">Work experience</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#">Education</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link disabled" href="#">Languages</a>
+                </li>
+            </ul>
+        </div>
     </nav>
 </header>
 <main>
     <div class="container">
         <div class="name">
-            <h2>Yurii Royko</h2>
+            <h1>Yurii Royko</h1>
         </div>
         <div class="photo">
             <img src="assets/img/my_photo.jpg" alt="my_photo">
         </div>
     </div>
+    <div class="contacts">
+        <h2>Contact info:</h2>
+        <span>Email: ura.royko@gmail.com</span>
+        <span>Phone number: +380 67 932 47 64</span>
+        <span>Telegram: <a href="https://t.me/royko_y">@royko_y</a></span>
+    </div>
+    <div class="about"></div>
+    <div class="skills"></div>
+    <div class="work"></div>
+    <div class="education"></div>
+    <div class="lang"></div>
 </main>
+
 <footer>
 
 </footer>
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
+        integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN"
+        crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"
+        integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+        crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"
+        integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+        crossorigin="anonymous"></script>
 </body>
 </html>
