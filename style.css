@@ -1,3 +1,28 @@
-h1 {
-    color: red;
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200&display=swap');
+
+p, span {
+    font-family: 'Poppins', sans-serif;
+}
+
+
+.photo img {
+    max-width: 200px;
+    max-height: 275px;
+    border-radius: 15%;
+}
+
+.main {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+main div {
+    /*justify-content: center;*/
+}
+
+.name_photo {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
