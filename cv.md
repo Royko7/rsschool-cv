@@ -7,9 +7,10 @@
 ### *Telegram*: [@royko_y](https://t.me/royko_y)
 ******
 
-##About me.
+## About me.
 _I am a Drupal backend developer. And I really like the direction of front-end development.
 My priority is to become a full stack developer._
+
 ******
 
 
@@ -17,7 +18,7 @@ code
 
 ******
 
-##Skills
+## Skills
 
 * PHP (OOP) + MySQL 
 * Linux terminal
@@ -27,11 +28,11 @@ code
 
 ******
 
-##WORK EXPERIENCE:
+## WORK EXPERIENCE:
 __Trainee drupal developer “DevBranch” (April 2021 - September 2021) Lutsk__
 ******
 
-##EDUCATION:
+## EDUCATION:
 
 __SNO named after Lesya Ukrainka (2016-2020)
 Specialty - Cybersecurity (Information Security)
@@ -41,6 +42,6 @@ __Computer Academy STEP (2017-2019)
 Direction - Development and promotion of WEB-projects__
 ******
 
-##Languages
+## Languages
 + Ukrainian - native
 + English - A1 (A2 in progress)
