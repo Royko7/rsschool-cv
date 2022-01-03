@@ -8,8 +8,8 @@
 ******
 
 ##About me.
-I am a Drupal backend developer. And I really like the direction of front-end development.
-My priority is to become a full stack developer.
+_I am a Drupal backend developer. And I really like the direction of front-end development.
+My priority is to become a full stack developer._
 ******
 
 
@@ -27,15 +27,20 @@ code
 
 ******
 
-WORK EXPERIENCE:
-Trainee drupal developer “DevBranch” (April 2021 - September 2021) Lutsk
+##WORK EXPERIENCE:
+__Trainee drupal developer “DevBranch” (April 2021 - September 2021) Lutsk__
 ******
 
-EDUCATION:
+##EDUCATION:
 
-SNO named after Lesya Ukrainka (2016-2020)
+__SNO named after Lesya Ukrainka (2016-2020)
 Specialty - Cybersecurity (Information Security)
-Bachelor
+Bachelor__
 
-Computer Academy STEP (2017-2019)
-Direction - Development and promotion of WEB-projects
+__Computer Academy STEP (2017-2019)
+Direction - Development and promotion of WEB-projects__
+******
+
+##Languages
++ Ukrainian - native
++ English - A1 (A2 in progress)
