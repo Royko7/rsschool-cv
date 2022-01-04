@@ -32,7 +32,6 @@ header {
     flex-direction: column;
     height: 100%;
     padding-top: 100px;
-    /*background-color: beige;*/
 }
 html {
     scroll-behavior: smooth;
@@ -50,8 +49,6 @@ html {
 .info {
     display: flex;
     flex-direction: column;
-    /*flex-wrap: nowrap;*/
-    /*flex-wrap: wrap;*/
     gap: 5%;
     margin-top: 8%;
 }
@@ -59,8 +56,6 @@ html {
 .contacts, .about, .skills, .work, .education, .lang {
     display: flex;
     border-bottom: 5px solid #575b64;
-
-
 }
 
 .contacts-center, .about-center, .skills-center, .work-center, .education-center, .lang-center {
@@ -70,11 +65,9 @@ html {
 }
 
 .info div {
-    /*width: 30%;*/
     margin-bottom: 10%;
     justify-content: center;
     text-align: center;
-    /*border: 1px solid black;*/
 }
 
 
@@ -86,7 +79,6 @@ html {
     background-color: #575b64;
     width: 100%;
     height: 100px;
-
 }
 
 .logo {
